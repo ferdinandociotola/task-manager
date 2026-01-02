@@ -15,7 +15,21 @@ Applicazione deployata e funzionante su VPS professionale.
 
 ## 📸 Screenshot
 
-*[Inserisci qui 2-3 screenshot]*
+### Dashboard Principale
+![Dashboard](screenshots/dashboard.png)
+*Dashboard con statistiche task completati, in corso e da fare*
+
+### Lista Task
+![Task List](screenshots/task-list.png)
+*Elenco task con filtri avanzati per categoria, stato e data*
+
+### Creazione Task
+![Create Task](screenshots/create-task.png)
+*Form creazione nuovo task con validazione campi*
+
+### Modifica Task
+![Edit Task](screenshots/edit-task.png)
+*Form modifica task esistente con dati pre-compilati*
 
 - Dashboard principale con statistiche
 - Pagina elenco task con filtri
